@@ -1,2 +1,2 @@
-# CSS-practise-
+# CSS-practise
 CSS-practise
